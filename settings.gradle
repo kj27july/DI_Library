@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "DI_Library"
 include ':IPC'
+include ':SDIL'
